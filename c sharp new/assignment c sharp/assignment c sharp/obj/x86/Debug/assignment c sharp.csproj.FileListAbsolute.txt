@@ -1,0 +1,5 @@
+C:\Users\hi-fi\Desktop\c sharp new\assignment c sharp\assignment c sharp\obj\x86\Debug\assignment c sharp.exe
+C:\Users\hi-fi\Desktop\c sharp new\assignment c sharp\assignment c sharp\obj\x86\Debug\assignment c sharp.pdb
+C:\Users\hi-fi\Desktop\c sharp new\assignment c sharp\assignment c sharp\bin\Debug\assignment c sharp.exe
+C:\Users\hi-fi\Desktop\c sharp new\assignment c sharp\assignment c sharp\bin\Debug\assignment c sharp.pdb
+C:\Users\hi-fi\Desktop\c sharp new\assignment c sharp\assignment c sharp\obj\x86\Debug\assignment c sharp.csprojResolveAssemblyReference.cache
